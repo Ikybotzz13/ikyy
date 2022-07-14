@@ -5,13 +5,13 @@
 // RECODE BY KOKO PANGERAN
 
 //=============『 Utama 』================== //
-global.owner = ['+6283844508188'] 
+global.owner = ['+6281347153980'] 
 global.mods = ['+6283844508188'] 
 global.prems = ['+6283844508188'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Sopiput×፝֟͜×'
-global.numberowner = '+6283844508188'
+global.nameowner = 'iky×፝֟͜×'
+global.numberowner = '+621347153980'
 global.instagram = 'https://instagram.com/kokopangeran_'
 global.github = 'https://github.com/MendingTuru'
 global.dana = '087832147584'
@@ -19,7 +19,7 @@ global.pulsa = '087832147584'
 global.gopay = '087832147584'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Meii-MD×፝֟͜×'
+global.namebot = 'Kyy-MD×፝֟͜×'
 global.gc = 'https://chat.whatsapp.com/BelumBuatGroupBot'
 global.web = 'https://instagram.com/kokopangeran_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/kokopangeran_'
@@ -34,8 +34,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '©Meii-MD×፝֟͜×'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜSopiput×፝֟͜×'
-global.wm3 = 'ᯤ Meii-MD×፝֟͜×'
+global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜikyButz×፝֟͜×'
+global.wm3 = 'ᯤ Iky-MD×፝֟͜×'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
